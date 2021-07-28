@@ -23,8 +23,10 @@ This project contains sample unit tests for the application. Both server side an
 1. Dot Net 5.0
 2. Code first w/ Migrations
 3. Entity framework as ORM
-4. SQL database
+4. SQL Server 2019
 5. xUnit & Moq
+6. Automapper
+
 
 ## Setup
 
