@@ -12,7 +12,7 @@ This layer contains classes and services and its implementation based on the app
 
 ## Insurance.WebApi
 
-This project is a web api project which client side is communication. This project usually needs the dependency of the application layer to perform its duties.
+This project is a web api project which client side is communication. Also acts a presentation layer since, it is the entry point of communication with the client side. This project usually needs the dependency of the application layer to perform its duties.
 
 ## Insurance.Test
 
